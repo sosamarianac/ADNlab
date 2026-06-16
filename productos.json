@@ -1,12 +1,12 @@
 {
   "config": {
     "negocio": "ADNlab",
-    "tagline": "Impresión 3D a medida, diseñada y fabricada en Buenos Aires",
-    "whatsapp": "",
-    "whatsappMensaje": "Hola! Quiero consultar por: {producto}",
-    "instagram": "",
-    "web": "",
     "moneda": "ARS",
+    "tagline": "IA + Diseño 3D + Impresión Avanzada",
+    "whatsapp": "5491164717197",
+    "instagram": "@adnlab_ok",
+    "web": "",
+    "whatsappMensaje": "Hola! Quiero consultar por: {producto}",
     "cuotasLabelDefault": "Pagar en cuotas",
     "cuotasUrlDefault": ""
   },
@@ -35,6 +35,20 @@
       "imagen": "",
       "disponibilidad": "a_pedido",
       "tiempoEntrega": "3-5 días hábiles",
+      "mpLink": "",
+      "cuotasLabel": "",
+      "cuotasUrl": ""
+    },
+    {
+      "id": "mqg3zgr8iomb",
+      "nombre": "Difisor Botella",
+      "categoria": "Difusores",
+      "descripcion": "Porta difusor con forma de botella, para difusores de 130ml",
+      "precio": 12500,
+      "moneda": "ARS",
+      "disponibilidad": "a_pedido",
+      "tiempoEntrega": "2 hábiles.",
+      "imagen": "img/difisor-botella-mqg3zgr8.png",
       "mpLink": "",
       "cuotasLabel": "",
       "cuotasUrl": ""
