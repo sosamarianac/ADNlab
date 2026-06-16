@@ -1,0 +1,43 @@
+{
+  "config": {
+    "negocio": "ADNlab",
+    "tagline": "Impresión 3D a medida, diseñada y fabricada en Buenos Aires",
+    "whatsapp": "",
+    "whatsappMensaje": "Hola! Quiero consultar por: {producto}",
+    "instagram": "",
+    "web": "",
+    "moneda": "ARS",
+    "cuotasLabelDefault": "Pagar en cuotas",
+    "cuotasUrlDefault": ""
+  },
+  "productos": [
+    {
+      "id": "demo1",
+      "nombre": "Llavero Salto Ángel",
+      "descripcion": "Llavero 3D inspirado en el Salto Ángel, Venezuela. Ideal para la diáspora venezolana.",
+      "categoria": "Llaveros",
+      "precio": 3500,
+      "moneda": "ARS",
+      "imagen": "",
+      "disponibilidad": "disponible",
+      "tiempoEntrega": "",
+      "mpLink": "",
+      "cuotasLabel": "",
+      "cuotasUrl": ""
+    },
+    {
+      "id": "demo2",
+      "nombre": "Maceta hexagonal 15cm",
+      "descripcion": "Maceta decorativa de diseño geométrico, impresa en PLA resistente a la intemperie.",
+      "categoria": "Decoración",
+      "precio": 8900,
+      "moneda": "ARS",
+      "imagen": "",
+      "disponibilidad": "a_pedido",
+      "tiempoEntrega": "3-5 días hábiles",
+      "mpLink": "",
+      "cuotasLabel": "",
+      "cuotasUrl": ""
+    }
+  ]
+}
