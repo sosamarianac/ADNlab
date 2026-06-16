@@ -44,12 +44,12 @@
       "nombre": "Difisor Botella",
       "categoria": "Difusores",
       "descripcion": "Porta difusor con forma de botella, para difusores de 130ml",
-      "precio": 12500,
+      "precio": 12945,
       "moneda": "ARS",
       "disponibilidad": "a_pedido",
       "tiempoEntrega": "2 hábiles.",
       "imagen": "img/difisor-botella-mqg3zgr8.png",
-      "mpLink": "",
+      "mpLink": "https://mpago.li/1Rv1r94",
       "cuotasLabel": "",
       "cuotasUrl": ""
     }
